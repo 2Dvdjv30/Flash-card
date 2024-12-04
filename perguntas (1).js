@@ -1,4 +1,4 @@
-/*LUCAS BRITTO MENDES PAIVA 21/11/24 */
+/*joao victor 2°D 21/11/24 */
 
 criaCartao(
     'Programação',
