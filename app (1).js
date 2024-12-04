@@ -1,4 +1,4 @@
-/*Joao victor 21/11/24 */
+/*joao victor 21/11/24 */
 
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
